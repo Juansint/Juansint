@@ -1,96 +1,118 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Juan%20Carlos%20Dom%C3%ADnguez&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20SaaS%20para%20pymes&descSize=18&descAlignY=58" width="100%" alt="Juan Carlos Domínguez"/>
+
 <div align="center">
 
-# Juan Carlos Domínguez
-
-**Desarrollador web full-stack · Next.js · TypeScript · Supabase**
-
-Construyo productos SaaS para pymes: desde la idea hasta producción.<br/>
-Madrid, España · Estudiante de Desarrollo de Aplicaciones Web (DAW)
-
-<br/>
+<a href="https://github.com/Juansint"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=560&lines=Next.js+%C2%B7+TypeScript+%C2%B7+Supabase;Construyo+productos+SaaS+de+principio+a+fin;Integraciones%3A+pagos%2C+banca+e+IA;Estudiante+de+DAW+en+Madrid" alt="Typing SVG"/></a>
 
 <a href="https://www.linkedin.com/in/juanc-dominguez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:carldominguez@jst-commerce.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Abierto_a-prácticas_·_remoto_/_híbrido-16A34A?style=for-the-badge" alt="Abierto a prácticas"/>
+<img src="https://img.shields.io/badge/Madrid-Espa%C3%B1a-C60B1E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Madrid"/>
+<img src="https://img.shields.io/badge/Abierto_a_pr%C3%A1cticas-remoto_%C2%B7_h%C3%ADbrido-16A34A?style=for-the-badge" alt="Abierto a prácticas"/>
 
 </div>
 
----
+## Sobre mí
 
-### Sobre mí
+```ts
+const juanCarlos = {
+  rol: "Full-stack developer",
+  empresa: "JST Commerce LLC — fundador",
+  enfoque: ["SaaS para pymes", "automatización", "integraciones (pagos, banca, IA)"],
+  formacion: ["DAW · Desarrollo de Aplicaciones Web", "Máster en Data Analytics"],
+  ahora: ["JST Leads (Next.js + Supabase + n8n)", "Seguridad web con PortSwigger Academy"],
+  idiomas: ["Español (nativo)", "Inglés"],
+};
+```
 
-- Fundador de **JST Commerce LLC**, donde pasé del e-commerce a construir software propio.
-- Me centro en **SaaS para pequeñas empresas**: paneles, automatización e integraciones (pagos, banca, IA).
-- Formándome en **DAW** y en un máster de especialización en **Data Analytics**.
-- Hablo **español** (nativo) e **inglés**.
-
-### Proyectos destacados
+## Proyecto principal
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-#### Reportes Pyme
-SaaS de informes financieros para pymes: conecta cuentas bancarias, categoriza movimientos con IA y genera informes claros.
+### Reportes Pyme &nbsp;<img src="https://img.shields.io/badge/en_desarrollo-F59E0B?style=flat-square" alt="En desarrollo"/>
 
-`Next.js` `TypeScript` `Supabase` `Stripe` `Plaid` `IA`
+SaaS de informes financieros para pymes. Conecta cuentas bancarias, categoriza movimientos con IA y genera informes claros para el negocio.
 
-<sub>Código privado · en desarrollo activo</sub>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,tailwind,vercel" height="34" alt="Stack"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+<img src="https://img.shields.io/badge/Plaid-111111?style=flat-square" alt="Plaid"/>
+<img src="https://img.shields.io/badge/IA-Claude_%C2%B7_Groq-8B5CF6?style=flat-square" alt="IA"/>
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/>
+<img src="https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white" alt="PostHog"/>
 
-</td>
-<td width="50%" valign="top">
-
-#### Vendor Portal
-Sistema de gestión de proveedores, marcas y contactos con búsqueda, autenticación y Google Sheets como backend.
-
-`Next.js` `TypeScript` `NextAuth` `Google Sheets API`
-
-<sub><a href="https://jst-vendor-system.vercel.app/">Ver demo</a></sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### Pig Game
-Juego de dados para dos jugadores en JavaScript puro: manipulación del DOM, estado y eventos.
-
-`JavaScript` `HTML` `CSS`
-
-<sub><a href="https://pig-game-three-sandy.vercel.app/">Ver demo</a> · <a href="https://github.com/Juansint/PIG-GAME">Código</a></sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### Webs responsive
-Landing pages maquetadas desde cero con HTML y CSS, publicadas en Vercel.
-
-`HTML` `CSS` `Responsive`
-
-<sub><a href="https://tutor-website-weld-xi.vercel.app/">Tutor</a> · <a href="https://leno-sigma.vercel.app/">Leno</a> · <a href="https://github.com/Juansint/Lumina-Creative">Lumina</a></sub>
+<sub>Código privado</sub>
 
 </td>
 </tr>
 </table>
 
-### Stack
+## Más proyectos
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind&theme=dark" alt="Frontend y runtime"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,java,html,css,git,docker,vercel&theme=dark" alt="Backend y herramientas"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://jst-vendor-system.vercel.app/"><img src="assets/vendor-portal.png" alt="Vendor Portal"/></a>
 
-**Integraciones:** Stripe · Plaid · Resend · PostHog · Sentry · Google APIs · n8n
+**Vendor Portal**<br/>
+Gestión de proveedores, marcas y contactos con autenticación y Google Sheets como backend.
 
-### Ahora mismo
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/NextAuth-7C3AED?style=flat-square" alt="NextAuth"/>
 
-- Construyendo **JST Leads**, una herramienta de captación de clientes con Next.js, Supabase y n8n.
-- Estudiando seguridad web con **PortSwigger Web Security Academy**.
-- Buscando **prácticas** de desarrollo web en Madrid (remoto o híbrido).
+<a href="https://jst-vendor-system.vercel.app/">Demo →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://pig-game-three-sandy.vercel.app/"><img src="assets/pig-game.png" alt="Pig Game"/></a>
 
----
+**Pig Game**<br/>
+Juego de dados para dos jugadores en JavaScript vanilla: DOM, estado y eventos.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+
+<a href="https://pig-game-three-sandy.vercel.app/">Demo →</a> · <a href="https://github.com/Juansint/PIG-GAME">Código</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://tutor-website-weld-xi.vercel.app/"><img src="assets/tutor.png" alt="Tutor"/></a>
+
+**Tutor**<br/>
+Landing page responsive para una plataforma de cursos en vídeo.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/Responsive-0EA5E9?style=flat-square" alt="Responsive"/>
+
+<a href="https://tutor-website-weld-xi.vercel.app/">Demo →</a> · <a href="https://github.com/Juansint/tutor-website">Código</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://leno-sigma.vercel.app/"><img src="assets/leno.png" alt="Leno"/></a>
+
+**Leno**<br/>
+Landing page responsive para una app de salud y productividad.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/Responsive-0EA5E9?style=flat-square" alt="Responsive"/>
+
+<a href="https://leno-sigma.vercel.app/">Demo →</a> · <a href="https://github.com/Juansint/Leno">Código</a>
+</td>
+</tr>
+</table>
+
+## Stack
 
 <div align="center">
-<sub>¿Hablamos? Escríbeme por <a href="https://www.linkedin.com/in/juanc-dominguez">LinkedIn</a> o a <a href="mailto:carldominguez@jst-commerce.com">carldominguez@jst-commerce.com</a></sub>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,supabase,postgres&perline=8" alt="Stack principal"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=java,html,css,git,github,docker,vercel,vscode&perline=8" alt="Herramientas"/>
+
+<sub><b>Integraciones:</b> Stripe · Plaid · Resend · PostHog · Sentry · Google APIs · n8n</sub>
+
 </div>
+
+## Actividad
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Juansint&theme=transparent&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&locale=es" alt="Racha de contribuciones"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%" alt=""/>
